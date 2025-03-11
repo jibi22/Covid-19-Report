@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis
+# COVID-19 Data Analysis in Excel
 
 ## Overview
 The COVID-19 pandemic has had a profound impact globally, with certain countries and continents being particularly hard-hit. This project aims to analyze the latest COVID-19 data to identify trends, highlight affected regions, and provide insights into the global and regional spread of the virus.
