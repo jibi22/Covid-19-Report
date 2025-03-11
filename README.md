@@ -11,7 +11,7 @@ The COVID-19 pandemic has had a profound impact globally, with certain countries
 - **Total Confirmed COVID-19 Cases**: [Total Confirmed Cases]
 - **Total Confirmed Deaths**: [Total Confirmed Deaths]
 - **Highest Daily New Cases Recorded on**: [Specific Date with Highest Cases]
-
+Click here to view <a href= "https://github.com/jibi22/Covid-19-Report/blob/main/corona%20report.png"> Covid-19 Analysis Dashboard</a>
 ## Features
 - Data visualization of COVID-19 trends
 - Slicer to filter data by continents
